@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+header{
+    color: white;
+    font-size: 50px;
+}
+
+a{
+    color: aquamarine;
+    font-size: 16px;
+}
