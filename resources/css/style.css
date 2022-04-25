@@ -1,16 +1,49 @@
 body{
     background-color: black;
     font-family: Verdana, sans-serif;
-    font-weight: normal;
     text-align: center;
+    color: white;
 }
 
 header{
-    color: white;
     font-size: 50px;
+    font-weight: normal;
+    margin: 30px;
 }
 
-a{
+.link{
+    margin: 30px;
+}
+
+.link a{
     color: aquamarine;
     font-size: 16px;
+}
+
+.info{
+    font-weight: 300;
+    font-size: 42px;
+    margin: 30px;
+}
+
+#purpose-text{
+    font-size: 21px;
+    color: gray;
+}
+
+#img-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#phone-logo{
+    margin-top: 30px;
+}
+
+footer{
+    font-size: 21px;
+    text-align: right;
+    color: gray;
 }
